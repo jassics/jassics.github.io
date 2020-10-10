@@ -1,1 +1,1 @@
-# My Personal Website ussing Hugo and hosted in github
+# My Personal Website using Hugo and hosted in github
