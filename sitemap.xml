@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jassics.github.io/publications/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/projects/creations/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/projects/contributions/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/projects/contributions/deploy-triggers/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/publications/alldaydevops/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/projects/contributions/shields-docker/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/projects/contributions/schema-org/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/docker/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/javascript/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/json/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/node.js/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/rest-apis/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/atlassian-ecosystem/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/bosh/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/projects/creations/bosh-agents/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/devops/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/java/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/monit/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/python/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/</loc>
+    <lastmod>2020-10-10T16:55:30+05:30</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/agile/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/continuous-delivery/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/continuous-integration/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/culture/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/apache/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/blog/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/blog/force-ssl/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/redirect/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/rewrite/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/ssl/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/web-development/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/atlassian-developer-ecosystem/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/projects/creations/marketplace/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/bamboo/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/bash/shell/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/bitbucket/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/ci/cd-pipelines/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/confluence/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/projects/creations/docker-marketplace/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/jira/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/jquery/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/maven/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/projects/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/search/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/spring/</loc>
+    <lastmod>2020-04-19T11:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jassics.github.io/tags/xml/xslt/</loc>
+  </url>
+  
+</urlset>
