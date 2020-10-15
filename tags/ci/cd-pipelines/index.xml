@@ -5,11 +5,7 @@
     <link>https://jassics.github.io/tags/ci/cd-pipelines/</link>
     <description>Recent content in CI/CD pipelines on Sanjeev Jaiswal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://jassics.github.io/tags/ci/cd-pipelines/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://jassics.github.io/tags/ci/cd-pipelines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
       <link>https://jassics.github.io/publications/alldaydevops/</link>
